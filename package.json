@@ -1,7 +1,7 @@
 {
   "name": "redisstore",
   "version": "0.0.1",
-  "description": "A redis store using the same interface as s3stor",
+  "description": "A redis store using the same interface as s3store",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
