@@ -12,6 +12,7 @@
   "author": "Mirko Kiefer <mail@mirkokiefer.com>",
   "license": "ISC",
   "devDependencies": {
+    "mocha": "^2.0.1",
     "redis": "^0.12.1",
     "s3store": "0.0.6",
     "uuid": "^2.0.1"
